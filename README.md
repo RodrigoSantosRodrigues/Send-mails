@@ -1,3 +1,3 @@
 # SendEmailApi
 
-Api para de envio de emails de robôs
+Api para envio de emails
